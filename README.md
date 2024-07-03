@@ -32,7 +32,7 @@ Contributions to enhance the functionality and features of this repository are w
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact 📧
+## Contact 📧
 
 For any inquiries or feedback, please contact Shreyash at shreyashkhote01@gmail.com.
 
