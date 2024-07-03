@@ -20,9 +20,11 @@ Contribute 💡
 Contributions to enhance the functionality and features of this repository are welcome! Feel free to submit pull requests or open issues for any improvements or suggestions.
 
 License 📝
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact 📧
+
 For any inquiries or feedback, please contact Shreyash at shreyashkhote01@gmail.com.
 
 Happy analyzing! 🎉
